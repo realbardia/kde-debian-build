@@ -1,4 +1,4 @@
-# Build KDE Plasma5 on Debian
+# Build KDE Plasma5 on Debian 10
 
 ## Qt 5.15.x
 
